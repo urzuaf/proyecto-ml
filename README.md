@@ -39,7 +39,7 @@ Se obtuvo un desempeño general muy alto, aunque se destaca la necesidad de segu
 
 Puedes revisar todo el análisis, desde la carga de datos hasta el entrenamiento del modelo, en el siguiente notebook:
 
-🔗 [Ver Notebook en GitHub](notebooks/Proyecto.ipynb)
+🔗 [Ver Notebook en GitHub](notebooks/proyecto.ipynb)
 
 ## ✅ Requisitos
 
