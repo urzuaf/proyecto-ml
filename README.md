@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo detectar episodios de **fibrilación auricular
 ## 📁 Estructura del Proyecto
 
 - `data/ecg_rr_features_curado.csv`: dataset con las características extraídas (mean_rr, std_rr, skew_rr, kurt_rr).
-- `notebooks/proyecto.ipynb`: notebook principal con todo el flujo del análisis.
+- `notebooks/Modelo.ipynb`: notebook principal con todo el flujo del análisis.
 
 ## 📊 Características Usadas
 
@@ -39,7 +39,7 @@ Se obtuvo un desempeño general muy alto, aunque se destaca la necesidad de segu
 
 Puedes revisar todo el análisis, desde la carga de datos hasta el entrenamiento del modelo, en el siguiente notebook:
 
-🔗 [Ver Notebook en GitHub](notebooks/proyecto.ipynb)
+🔗 [Ver Notebook en GitHub](notebooks/Modelo.ipynb)
 
 ## ✅ Requisitos
 
